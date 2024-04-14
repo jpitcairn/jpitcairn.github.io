@@ -3,14 +3,14 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    position: right
+    about: False 
+    education: False 
 
     # Profile information
     name: Jordan Pitcairn
     tagline: Azure Security Expert
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg 
 
     # Sidebar links
     email: jordan@jordanpitcairn.com
@@ -79,17 +79,11 @@ experiences:
         time: 2020 - Present
         company: LRQA Nettitude
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - CHECK Team Leader (CTL Inf)
+            - Azure & M365 Service line owner
+            - Pentesting Infrastructure team member
+            - Quality Assurance team member
+
       - role: Director
         time: 2017 - 2020
         company: JPAV Ltd
