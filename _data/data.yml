@@ -17,17 +17,17 @@ sidebar:
     phone: 07892 747 288
     timezone: Europe/London
     citizenship: British
-    website: jordanpitcairn.com #do not add http://
+    website: jordanpitcairn.com 
     linkedin: jordanpitcairn
     xing: 
     github: jpitcairn
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab:
     bitbucket:
     twitter: '@jordanpitcairn'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
     pdf: 
 
     languages:
@@ -118,27 +118,67 @@ certifications:
       list:
         - name: Cyber Scheme Team Leader (CSTL)
           start: 2022
-          end: 202
+          end: 2025
           organization: Cyber Scheme
           credentialid: CSTL-I00367
           credentialurl: registry.blockmarktech.com/certificates/eda5e2d1-fd9c-4821-8b15-4ac2134008c5/
           credentialname: Cyber Scheme
-        - name: Git learning
-          start: 2019
-          end:
+
+        - name: Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+          start: 2022
+          end: 2025
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          credentialid: 8292F5198FE6FF02
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/8292F5198FE6FF02?sharingId=2BA63D3A3E1202A
+          credentialname: Microsoft
+
+        - name: Microsoft 365 Certified: Security Administrator Associate (MS-500)
+          start: 2023
+          end: 2025
+          organization: Microsoft
+          credentialid: 23F808FA47218631
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/6672B9AD99C3C71D?sharingId=2BA63D3A3E1202A
+          credentialname: Microsoft
+
+        - name: Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+          start: 2023
+          end: 2025
+          organization: Microsoft
+          credentialid: 6672B9AD99C3C71D
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/6672B9AD99C3C71D?sharingId=2BA63D3A3E1202A
+          credentialname: Microsoft
+
+        - name: Microsoft Certified: Information Protection and Compliance Administrator Associate (SC-400)
+          start: 2023
+          end: 2025
+          organization: Microsoft
+          credentialid: 116D81E94F2C344F
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/116D81E94F2C344F?sharingId=2BA63D3A3E1202A
+          credentialname: Microsoft
+
+        - name: Certified Az Red Team Professional (CARTP)
+          start: 2022
+          end: 
+          organization: Pentester Academy
+          credentialid: AZLID554
+          credentialurl: www.credential.net/41e0a7b6-19f9-4c5a-8bd5-7d008514a107#gs.7eiyl5
+          credentialname: Pentester Academy
+
+        - name: Offensive Security Certified Professional (OSCP)
+          start: 2021
+          end: 
+          organization: Offsec
+          credentialid: OS-101-28050
+          credentialurl: www.credly.com/badges/807c9c36-80a5-460e-9284-cd3e413d156c?source=linked_in_profile
+          credentialname: Offsec
+
+        - name: Cyber Essentials Plus Assessor
+          start: 2023
+          end: 2026
+          organization: IASME
+          credentialid: c0f8ed05-7342-4c0f-bab6-1279f9dc4caf
+          credentialurl: registry.blockmarktech.com/certificates/c0f8ed05-7342-4c0f-bab6-1279f9dc4caf
+          credentialname: IASME
 
 projects:
     title: Projects
