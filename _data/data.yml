@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Jordan Pitcairn
     tagline: Azure Security Expert
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jordan@jordanpitcairn.com
@@ -121,22 +121,8 @@ certifications:
           end: 202
           organization: Cyber Scheme
           credentialid: CSTL-I00367
-          credentialurl: https://registry.blockmarktech.com/certificates/eda5e2d1-fd9c-4821-8b15-4ac2134008c5/
+          credentialurl: registry.blockmarktech.com/certificates/eda5e2d1-fd9c-4821-8b15-4ac2134008c5/
           credentialname: Cyber Scheme
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
         - name: Git learning
           start: 2019
           end:
