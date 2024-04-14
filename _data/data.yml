@@ -118,7 +118,7 @@ certifications:
           credentialurl: registry.blockmarktech.com/certificates/eda5e2d1-fd9c-4821-8b15-4ac2134008c5/
           credentialname: Cyber Scheme
 
-        - name: Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+        - name: "Microsoft Certified: Azure Security Engineer Associate (AZ-500)"
           start: 2022
           end: 2025
           organization: Microsoft
@@ -126,7 +126,7 @@ certifications:
           credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/8292F5198FE6FF02?sharingId=2BA63D3A3E1202A
           credentialname: Microsoft
 
-        - name: Microsoft 365 Certified: Security Administrator Associate (MS-500)
+        - name: "Microsoft 365 Certified: Security Administrator Associate (MS-500)"
           start: 2023
           end: 2025
           organization: Microsoft
@@ -134,7 +134,7 @@ certifications:
           credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/6672B9AD99C3C71D?sharingId=2BA63D3A3E1202A
           credentialname: Microsoft
 
-        - name: Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+        - name: "Microsoft Certified: Identity and Access Administrator Associate (SC-300)"
           start: 2023
           end: 2025
           organization: Microsoft
@@ -142,7 +142,7 @@ certifications:
           credentialurl: learn.microsoft.com/api/credentials/share/en-gb/JordanPitcairn/6672B9AD99C3C71D?sharingId=2BA63D3A3E1202A
           credentialname: Microsoft
 
-        - name: Microsoft Certified: Information Protection and Compliance Administrator Associate (SC-400)
+        - name: "Microsoft Certified: Information Protection and Compliance Administrator Associate (SC-400)"
           start: 2023
           end: 2025
           organization: Microsoft
