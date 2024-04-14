@@ -63,26 +63,26 @@ education:
       - degree: BSc in Audio Technology
         university: Glasgow Caledonian University
         time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
     info:
       - role: Senior Security Consultant
-        time: 2020 - Present
+        time: 2022 - Present
         company: LRQA Nettitude
         details: |
             - CHECK Team Leader (CTL Inf)
             - Azure & M365 Service line owner
             - Pentesting Infrastructure team member
             - Quality Assurance team member
+            - Technical project lead for key client
+
+
+      - role: Security Consultant
+        time: 2020 - 2022
+        company: Nettitude
+        details: |
+
 
       - role: Director
         time: 2017 - 2020
@@ -208,17 +208,13 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
+      - title: CIS Benchmark Contributor
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: ""
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Microsoft Entra Documentation Contributor
+        tagline: ""
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
